@@ -1,0 +1,11 @@
+C:\Users\gooro\source\repos\Conversion\bin\Debug\netcoreapp3.1\Conversion.exe
+C:\Users\gooro\source\repos\Conversion\bin\Debug\netcoreapp3.1\Conversion.deps.json
+C:\Users\gooro\source\repos\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.json
+C:\Users\gooro\source\repos\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.dev.json
+C:\Users\gooro\source\repos\Conversion\bin\Debug\netcoreapp3.1\Conversion.dll
+C:\Users\gooro\source\repos\Conversion\bin\Debug\netcoreapp3.1\Conversion.pdb
+C:\Users\gooro\source\repos\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfoInputs.cache
+C:\Users\gooro\source\repos\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfo.cs
+C:\Users\gooro\source\repos\Conversion\obj\Debug\netcoreapp3.1\Conversion.dll
+C:\Users\gooro\source\repos\Conversion\obj\Debug\netcoreapp3.1\Conversion.pdb
+C:\Users\gooro\source\repos\Conversion\obj\Debug\netcoreapp3.1\Conversion.csprojAssemblyReference.cache
